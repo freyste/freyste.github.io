@@ -6,8 +6,6 @@ permalink: /resume/
 order: 1
 ---
 
-# Résumé
-
 ## Education
 <table class="resume-table" id="education-table">
   <tbody>

@@ -3,7 +3,7 @@ layout: page
 title: Ongoing
 id: ongoing
 permalink: /ongoing/
-order: 3
+order: 2
 ---
 
 <div class="apps-container uploadur-container">

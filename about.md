@@ -1,10 +1,22 @@
 ---
 layout: page
 title: About
+id: about
 permalink: /about/
+order: 2
 ---
 
-![_config.yml]({{ site.baseurl }}/images/profile.jpg)
+
+<div class="figure">
+  <div class="figure-wrapper plot">
+    <div>
+      <a href="#" data-featherlight="{{ site.baseurl }}/images/profile.jpg"><img src="{{ site.baseurl }}/images/profile.jpg" alt="" /></a>
+    </div>
+    <div class="caption">
+      <span>me</span>
+    </div>
+  </div>
+</div>
 
 Mechanical engineer with 5 years of experience in consumer electronics hardware specializing in mechanical design,
 reliability, and process engineering. A curiosity for both the development and field life of products is reflected 

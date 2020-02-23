@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ongoing
-id: projects
+id: ongoing
 permalink: /ongoing/
 order: 3
 ---

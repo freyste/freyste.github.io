@@ -7,7 +7,7 @@ order: 2
 ---
 
 At any given time I try to have 3 projects I am working on. I've found this is the magic number for 
-being able make significant incremental progress on each while still being to trade off between for needed breaks. 
+being able make significant incremental progress on each while still being to trade off between them for breaks. 
 
 These three projects are selected at random from my overgrowing list of projects. 
 

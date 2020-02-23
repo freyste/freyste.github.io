@@ -3,7 +3,7 @@ layout: page
 title: Projects
 id: projects
 permalink: /projects/
-order: 2
+order: 1
 ---
 
 <div class="apps-container uploadur-container">

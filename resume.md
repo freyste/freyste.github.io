@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 id: resume
 permalink: /resume/
-order: 1
+order: 4
 ---
 
 ## Education

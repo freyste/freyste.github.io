@@ -6,30 +6,7 @@ permalink: /ongoing/
 order: 2
 ---
 
-<div class="apps-container uploadur-container">
-    <div class="icon">
-      <h2><a href="http://selovert.github.io/Uploadur">Project 1</a></h2>
-      <a href="http://selovert.github.io/Uploadur"><img src="{{ site.baseurl }}/images/uploadur-icon.png" alt="" /></a>
-    </div>
-    <div class="info">
-      <p>
-        Text about project 1
-      </p>
-    </div>
-    <div class="clearfix"></div>
-</div>
+At any given time I try to have 3 projects I am working on. I've found this is the magic number for 
+being able make significant  incremental progress while still being to trade off between for needed breaks. 
 
-<div class="clearfix separator"></div>
-
-<div class="apps-container wallpiper-container">
-    <div class="icon">
-      <h2><a href="http://selovert.github.io/Wallpiper">Project 2</a></h2>
-      <a href="http://selovert.github.io/Wallpiper"><img src="{{ site.baseurl }}/images/wallpiper-icon.png" alt="" /></a>
-    </div>
-    <div class="info">
-      <p>
-        Text about project 1
-      </p>
-    </div>
-    <div class="clearfix"></div>
-</div>
+These three projects are selected at random from my overgrowing list of projects. 

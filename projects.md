@@ -6,8 +6,6 @@ permalink: /projects/
 order: 2
 ---
 
-# Projects
-
 <div class="apps-container uploadur-container">
     <div class="icon">
       <h2><a href="http://selovert.github.io/Uploadur">Project 1</a></h2>

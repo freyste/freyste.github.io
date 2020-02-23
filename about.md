@@ -13,7 +13,7 @@ order: 3
       <a href="#" data-featherlight="{{ site.baseurl }}/images/profile.jpg"><img src="{{ site.baseurl }}/images/profile.jpg" alt="" /></a>
     </div>
     <div class="caption">
-      <span>me</span>
+      <span></span>
     </div>
   </div>
 </div>

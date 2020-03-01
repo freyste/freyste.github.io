@@ -3,8 +3,6 @@ layout: post
 title: Wood Carving 
 ---
 
-Text
-
 ![_config.yml]({{ site.baseurl }}/images/Dino_Walker.jpeg)
 
 Text

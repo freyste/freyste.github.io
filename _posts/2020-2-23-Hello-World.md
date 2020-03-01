@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's a post!
+title: 
 ---
 
 

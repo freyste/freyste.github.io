@@ -3,8 +3,6 @@ layout: post
 title: Wood Carving 
 ---
 
-{% giphy welcome %}
-
 ![_config.yml]({{ site.baseurl }}/images/mini_peng.jpeg)
 
 Text

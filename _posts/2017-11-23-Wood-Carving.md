@@ -3,7 +3,7 @@ layout: post
 title: Wood Carving 
 ---
 
-![_config.yml]({{ site.baseurl }}/images/Carvings_carve.gif)
+{% giphy welcome %}
 
 ![_config.yml]({{ site.baseurl }}/images/mini_peng.jpeg)
 

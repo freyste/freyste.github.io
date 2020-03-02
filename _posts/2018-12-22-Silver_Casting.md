@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wood Carving 
+title: Silver Casting 
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/necklace.jpeg)

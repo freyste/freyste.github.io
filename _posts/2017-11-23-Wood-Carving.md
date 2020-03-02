@@ -3,7 +3,7 @@ layout: post
 title: Wood Carving 
 ---
 
-<img class="gifplayer" src="media/Carvings_carve.gif" />
+<img class="gifplayer" src="images/Carvings_carve.gif" />
  
 <script>
 	$('.gifplayer').gifplayer();

@@ -3,6 +3,12 @@ layout: post
 title: Wood Carving 
 ---
 
+<img class="gifplayer" src="media/Carvings_carve.gif" />
+ 
+<script>
+	$('.gifplayer').gifplayer();
+</script>
+
 {% giphy welcome %}
 
 ![_config.yml]({{ site.baseurl }}/images/mini_peng.jpeg)

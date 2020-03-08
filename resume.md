@@ -60,7 +60,8 @@ order: 4
         - Identifying open mechanical design issues and driving them to closure in a timely fashion<br>
       </td>
     </tr>
-
+<br>
+<br>
     <tr>
       <td>
         <i><a href="https://mime.oregonstate.edu/people/brady-j-gibbons">Oregon State Multi-functional Thin Film Materials Research Laboratory</a> – Undergrad Researcher</i>

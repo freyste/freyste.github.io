@@ -12,7 +12,7 @@ These three projects are selected at random from my overgrowing list of things I
 
 The three projects I am currently working on as decided by the Wheel Decide wheel are: 
 
-- Build a compost system
+- Archery score of 210
 
 - Put on 20 lbs of muscle
 

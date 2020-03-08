@@ -29,7 +29,7 @@ order: 4
         <i><a href="https://www.apple.com/"> Apple </a> – Mechanical Reliability Engineer</i>
       </td>
       <td>
-        <i>March 2017 – Current</i>
+        <i>March 2017 - Current</i>
       </td>
     </tr>
     <tr class="list-row">
@@ -65,7 +65,7 @@ order: 4
     
     <tr>
       <td>
-        <i><a href="https://mime.oregonstate.edu/people/brady-j-gibbons">Oregon State Multi-functional Thin Film Materials Research Laboratory</a> – Undergrad Researcher</i>
+        <i><a href="https://mime.oregonstate.edu/people/brady-j-gibbons">Oregon State Thin Film Materials Research Lab</a> – Undergrad Researcher</i>
       </td>
       <td>
         <i>July 2012 – July 2014</i>

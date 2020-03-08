@@ -72,15 +72,15 @@ order: 4
     </tr>
     <tr class="list-row">
       <td colspan="2">
-        −  Working for 2 years as an undergraduate research assistant I developed a strong base in experimental design and an interest in materials characterization and processing.<br>
+        - Working for 2 years as an undergraduate research assistant I developed a strong base in experimental design and an interest in materials characterization and processing.<br>
 <br>
         Some tasks I performed and skills I developed include:<br>
-        −  Synthesize piezoelectric thin films via chemical solution deposition<br>
-        −  Operate an x-ray diffractometer to identify thin film structure<br>
-        −  Plot diffractometer data with Microsoft Excel and KaleidaGraph<br>
-        −  Operate spectroscopic ellipsometer to measure thin film thickness<br>
-        −  Operate a thermal evaporator to deposit electrodes on thin films<br>
-        −  Operate an impedance analyzer to measure relative dielectric permittivity and dielectric loss<br>
+        - Synthesize piezoelectric thin films via chemical solution deposition<br>
+        - Operate an x-ray diffractometer to identify thin film structure<br>
+        - Plot diffractometer data with Microsoft Excel and KaleidaGraph<br>
+        - Operate spectroscopic ellipsometer to measure thin film thickness<br>
+        - Operate a thermal evaporator to deposit electrodes on thin films<br>
+        - Operate an impedance analyzer to measure relative dielectric permittivity and dielectric loss<br>
       </td>
     </tr>
   </tbody>

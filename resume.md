@@ -39,7 +39,6 @@ order: 4
         - Statistical data analysis to provide predictions of whether or not the failure modes are customer relevant<br>
       </td>
     </tr>
-  <br>
     <tr>
       <td>
         <i><a href="https://www8.hp.com/us/en/home.html">HP Inc. </a> – Mechanical/Hardware Engineer</i>

@@ -26,7 +26,8 @@ order: 4
   <tbody>
    <tr>
       <td>
-        <i><a href="https://www.apple.com/"> Apple </a> – Mechanical Reliability Engineer</i>
+       
+       <i><a href="https://www.apple.com/"> Apple </a> – Mechanical Reliability Engineer</i>
       </td>
       <td>
         <i>March 2017 - Current</i>
@@ -41,7 +42,8 @@ order: 4
     </tr>
     <tr>
       <td>
-        <i><a href="https://www8.hp.com/us/en/home.html">HP Inc. </a> – Mechanical/Hardware Engineer</i>
+       
+       <i><a href="https://www8.hp.com/us/en/home.html">HP Inc. </a> – Mechanical/Hardware Engineer</i>
       </td>
       <td>
         <i>June 2015 – March 2017</i>
@@ -60,6 +62,7 @@ order: 4
     </tr>
     <tr>
       <td>
+        
         <i><a href="https://mime.oregonstate.edu/people/brady-j-gibbons">Oregon State Thin Film Materials Research Lab</a> – Undergrad Researcher</i>
       </td>
       <td>

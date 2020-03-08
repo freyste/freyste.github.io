@@ -15,7 +15,7 @@ order: 4
         <span> B.S. Mechanical Engineering – GPA 3.8</span>
       </td>
       <td>
-        <i>September 2011 – September 2015</i>
+        <i>September 2011 – September 2015</i><br>
       </td>
     </tr>
   </tbody>
@@ -25,7 +25,6 @@ order: 4
 
 <table class="resume-table">
   <tbody>
-
    <tr>
       <td>
         <i><a href="https://www.apple.com/"> Apple </a> – Mechanical Reliability Engineer</i>

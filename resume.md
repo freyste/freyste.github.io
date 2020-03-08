@@ -109,11 +109,11 @@ aerodynamic elements using Fibersim software<br>
 <table class="resume-table" id="skills-table">
   <tbody>
     <tr>
-      <td>Machine Shop Experience</td>
+      <td>Machine Shop Experience    </td>
       <td>Lathe, Mill, Wood Shop, TIG Welder, Basic Electronic Circuits</td>
     </tr>
     <tr>
-      <td>Programming Experience</td>
+      <td>Programming Experience   </td>
       <td>Python, MATLAB </td>
     </tr>
     <tr>

@@ -22,7 +22,6 @@ order: 4
 </table>
 
 ## Work Experience
-
 <table class="resume-table">
   <tbody>
    <tr>
@@ -62,6 +61,8 @@ order: 4
     </tr>
 <br>
 <br>
+    
+    
     <tr>
       <td>
         <i><a href="https://mime.oregonstate.edu/people/brady-j-gibbons">Oregon State Multi-functional Thin Film Materials Research Laboratory</a> – Undergrad Researcher</i>
@@ -85,7 +86,6 @@ order: 4
 </table>
 
 ## Project Experience
-
 <table class="resume-table">
   <tbody>
     <tr>
@@ -106,7 +106,6 @@ aerodynamic elements using Fibersim software<br>
 </table>
 
 ## Skills
-
 <table class="resume-table" id="skills-table">
   <tbody>
     <tr>

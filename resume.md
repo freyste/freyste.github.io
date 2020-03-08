@@ -15,7 +15,7 @@ order: 4
         <span> B.S. Mechanical Engineering – GPA 3.8</span>
       </td>
       <td>
-        <i>September 2011 – September 2015</i><br>
+        <i>September 2011 – September 2015</i>
       </td>
     </tr>
   </tbody>

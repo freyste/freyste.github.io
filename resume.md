@@ -82,7 +82,7 @@ order: 4
   </tbody>
 </table>
 
-## Project Experience
+## Student Project Experience
 <table class="resume-table">
   <tbody>
     <tr>

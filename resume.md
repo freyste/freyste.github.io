@@ -108,22 +108,16 @@ order: 4
       <td>Machine Shop Experience    </td>
       <td>    
       </td>
-      <td>    
-      </td>
       <td>Lathe, Mill, Wood Shop, TIG Welder, Basic Electronic Circuits</td>
     </tr>
     <tr>
       <td>Programming Experience   </td>
       <td>    
       </td>
-      <td>    
-      </td>
       <td>Python, MATLAB </td>
     </tr>
     <tr>
       <td>CAD Experience</td>
-      <td>    
-      </td>
       <td>    
       </td>
       <td>Solidworks, PTC Creo, NX</td>

@@ -15,4 +15,6 @@ A Penguin pair for my sister's family.
 
 A dinosaur and Star Wars ATAT for my nephews.
 
+![_config.yml]({{ site.baseurl }}/images/dino_walker1.jpeg)
+
 ![_config.yml]({{ site.baseurl }}/images/Dino_Walker.jpeg)

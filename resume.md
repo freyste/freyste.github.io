@@ -70,13 +70,12 @@ order: 4
     </tr>
     <tr class="list-row">
       <td colspan="2">
-        As an undergraduate research assistant in experimental design and materials characterization and processing<br>
-        - Synthesize piezoelectric thin films via chemical solution deposition<br>
-        - Operate an x-ray diffractometer to identify thin film structure<br>
-        - Plot diffractometer data with Microsoft Excel and KaleidaGraph<br>
-        - Operate spectroscopic ellipsometer to measure thin film thickness<br>
-        - Operate a thermal evaporator to deposit electrodes on thin films<br>
-        - Operate an impedance analyzer to measure relative dielectric permittivity and dielectric loss<br>
+        As an undergraduate research assistant for materials characterization and processing I became comfortable with<br>
+        - Synthesizing piezoelectric thin films via chemical solution deposition<br>
+        - Operating an x-ray diffractometer to identify thin film structure<br>
+        - Operating spectroscopic ellipsometer to measure thin film thickness<br>
+        - Operating a thermal evaporator to deposit electrodes on thin films<br>
+        - Operating an impedance analyzer to measure relative dielectric permittivity and dielectric loss<br>
         <br>
       </td>
     </tr>

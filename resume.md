@@ -11,11 +11,11 @@ order: 4
   <tbody>
     <tr>
       <td>
-        <i><a href="http://oregonstate.edu">Oregon State University</a>, Corvallis, Oregon </i><br>
+        <i><a href="http://oregonstate.edu">Oregon State University</a>, Corvallis, Oregon    </i><br>
         <span> B.S. Mechanical Engineering – GPA 3.8</span>
       </td>
       <td>
-        <i>September 2011 – September 2015</i>
+        <i>   September 2011 – September 2015</i>
       </td>
     </tr>
   </tbody>

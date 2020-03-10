@@ -35,7 +35,6 @@ order: 4
     <tr class="list-row">
       <td colspan="2">
         Working with future Apple products my job entails<br>
-        <br>
         - Designing and executing reliability tests to establish and improve the reliability of products<br>
         - Providing design feedback to improve product reliability when necessary<br>
         - Statistical data analysis to provide predictions of whether or not the failure modes are customer relevant<br>
@@ -53,7 +52,6 @@ order: 4
     <tr class="list-row">
       <td colspan="2">
         Working with R&D print technology my job entailed<br>
-        <br>
         - Develop and test microfluidics mechanical packaging solution prototypes<br>
         - Design of proto level test vehicles and fixtures for fab material processing and automation<br>
         - Creating and maintaining a detailed CAD database (3D and 2D) for all parts and designs<br>
@@ -74,7 +72,6 @@ order: 4
     <tr class="list-row">
       <td colspan="2">
         As an undergraduate research assistant in experimental design and materials characterization and processing<br>
-        <br>
         - Synthesize piezoelectric thin films via chemical solution deposition<br>
         - Operate an x-ray diffractometer to identify thin film structure<br>
         - Plot diffractometer data with Microsoft Excel and KaleidaGraph<br>

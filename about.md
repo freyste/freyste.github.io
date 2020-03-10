@@ -10,7 +10,7 @@ order: 3
 <div class="figure">
   <div class="figure-wrapper plot">
     <div>
-      <a href="#" data-featherlight="{{ site.baseurl }}/images/profile.jpg"><img src="{{ site.baseurl }}/images/profile2.jpg" alt="" /></a>
+      <a href="#" data-featherlight="{{ site.baseurl }}/images/profile.jpg"><img src="{{ site.baseurl }}/images/profile2.jpeg" alt="" /></a>
     </div>
     <div class="caption">
       <span></span>

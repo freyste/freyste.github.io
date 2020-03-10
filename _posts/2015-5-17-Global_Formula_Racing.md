@@ -7,9 +7,9 @@ title: Global Formula Racing
 
 GFR was my first experience being involved with a engineering project that was so cool that I was fully willing to pull regular all nighters to contribute to it. We were a team of engineering students just building a race car and it was awesome. Its a feeling I’ve been pursuing in my career ever since. 
 
-GFR or Global Formula Racing is an international cooperation between the BA Racing Team from Duale Hochschule Baden-Württemberg-Ravensburg (DHBW), Germany, and the Beaver Racing Team from Oregon State University (OSU), USA. Over the winter of 2014 and into the spring of 2015 the team would cooperatively build two cars, a combustion and an electric car which would be raced at competitions aorund the world. 
+GFR or Global Formula Racing is an international cooperation between the BA Racing Team from Duale Hochschule Baden-Württemberg-Ravensburg (DHBW), Germany, and the Beaver Racing Team from Oregon State University (OSU), USA. Over the winter of 2014 and into the spring of 2015 the team would cooperatively build two cars, a combustion and an electric car which would be raced at competitions around the world. 
 
-My main contributuion was in the carnbon fiber composite structures like the monocoque and steering wheel. 
+My main contribution was to the carbon fibe the monocoque and steering wheel as part of the stuctures team. 
 
 ![_config.yml]({{ site.baseurl }}/images/gfr_mono.jpeg)
 

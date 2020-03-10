@@ -90,12 +90,10 @@ order: 4
     </tr>
     <tr class="list-row">
       <td>
-        - Advanced the design and manufacturing process for carbon composite structures as a member
-of the Global Formula Racing Team for the 2015 combustion and electric cars<br>
-        - Developed a comprehensive CAD model of the major carbon structures to support FEA
-simulations<br>
-        - Optimized the manufacturing process and ply placement on carbon monocoque and
-aerodynamic elements using Fibersim software<br>
+        As a member of the Global Formula Racing Team for the 2015 combustion and electric cars<br>
+        - Advanced the design and manufacturing process for carbon composite structures<br>
+        - Developed a comprehensive CAD model of the major carbon structures to support FEA simulations<br>
+        - Optimized the manufacturing process and ply placement on carbon composite elements using Fibersim software<br>
       </td>
     </tr>
 

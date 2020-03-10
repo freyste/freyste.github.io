@@ -52,12 +52,11 @@ order: 4
     <tr class="list-row">
       <td colspan="2">
         Working with R&D print technology my job entailed<br>
-        - Develop and test microfluidics mechanical packaging solution prototypes<br>
-        - Design of proto level test vehicles and fixtures for fab material processing and automation<br>
+        - Developing and testing microfluidics mechanical packaging solution prototypes<br>
+        - Designing of proto level test vehicles and fixtures for fab material processing and automation<br>
         - Creating and maintaining a detailed CAD database (3D and 2D) for all parts and designs<br>
         - Executing reliability tests to quantify the reliability of products<br>
         - Driving failure analyses and DOEs to reach design solutions and corrective actions<br>
-        - Identifying open mechanical design issues and driving them to closure in a timely fashion<br>
         <br>
       </td>
     </tr>

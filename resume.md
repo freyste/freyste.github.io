@@ -50,7 +50,6 @@ order: 4
     </tr>
     <tr class="list-row">
       <td colspan="2">
-        - Working with R&D print technology my job entails:<br>
         - Develop and test microfluidics mechanical packaging solution prototypes<br>
         - Design of proto level test vehicles and fixtures for fab material processing and automation<br>
         - Creating and maintaining a detailed CAD database (3D and 2D) for all parts and designs<br>

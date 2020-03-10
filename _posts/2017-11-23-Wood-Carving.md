@@ -5,7 +5,7 @@ title: Wood Carving
 
 ![_config.yml]({{ site.baseurl }}/images/mini_peng.jpeg)
 
-Some of the wood carvings I made over the winter break, 2017. 
+Sharing some of the wood carvings I made over the winter break, 2017. 
 
 <br>
 Step 1, draw the design and transfer over to wood 

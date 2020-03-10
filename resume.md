@@ -37,6 +37,7 @@ order: 4
         - Designing and executing reliability tests to establish and improve the reliability of products<br>
         - Providing design feedback to improve product reliability when necessary<br>
         - Statistical data analysis to provide predictions of whether or not the failure modes are customer relevant<br>
+        <br>
       </td>
     </tr>
     <tr>
@@ -56,6 +57,7 @@ order: 4
         - Executing reliability tests to quantify the reliability of products<br>
         - Driving failure analyses and DOEs to reach design solutions and corrective actions<br>
         - Identifying open mechanical design issues and driving them to closure in a timely fashion<br>
+        <br>
       </td>
     </tr>
     <tr>
@@ -75,6 +77,7 @@ order: 4
         - Operate spectroscopic ellipsometer to measure thin film thickness<br>
         - Operate a thermal evaporator to deposit electrodes on thin films<br>
         - Operate an impedance analyzer to measure relative dielectric permittivity and dielectric loss<br>
+        <br>
       </td>
     </tr>
   </tbody>

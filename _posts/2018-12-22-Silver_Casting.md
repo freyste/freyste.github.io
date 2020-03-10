@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Silver Casting 
+title: Cast Silver Pendant
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/necklace.jpeg)

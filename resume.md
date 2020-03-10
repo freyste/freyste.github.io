@@ -87,7 +87,7 @@ order: 4
 <table class="resume-table">
   <tbody>
     <tr>
-      <td><i><a href="https://www.global-formula-racing.com/en/">Global Formula Racing</a> – Composites</i></td>
+      <td><i><a href="https://www.global-formula-racing.com/en/">Global Formula Racing</a> – Carbon Composite Structures</i></td>
     </tr>
     <tr class="list-row">
       <td>

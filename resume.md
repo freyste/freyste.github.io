@@ -14,7 +14,8 @@ order: 4
         <i><a href="http://oregonstate.edu">Oregon State University</a>, Corvallis, Oregon</i><br>
         <span> B.S. Mechanical Engineering – GPA 3.8</span>
       </td>
-      <td>    </td>
+      <td>    
+      </td>
       <td>
         <i><br>September 2011 – September 2015</i>
       </td>
@@ -105,17 +106,20 @@ order: 4
   <tbody>
     <tr>
       <td>Machine Shop Experience    </td>
-      <td>    </td>
+      <td>    
+      </td>
       <td>Lathe, Mill, Wood Shop, TIG Welder, Basic Electronic Circuits</td>
     </tr>
     <tr>
       <td>Programming Experience   </td>
-      <td>    </td>
+      <td>    
+      </td>
       <td>Python, MATLAB </td>
     </tr>
     <tr>
       <td>CAD Experience</td>
-      <td>    </td>
+      <td>    
+      </td>
       <td>Solidworks, PTC Creo, NX</td>
     </tr>
   </tbody>

@@ -19,7 +19,7 @@ After that I picked the one I was happiest with and moved it into a FreeCAD to f
 
 ![_config.yml]({{ site.baseurl }}/images/necklace_freecad.png)
 
-At this point I decided to skip casting them in metal myself and opt to have Shapeways do it. My understanding of there process is that they print your design in wax, then using a lost wax molding process are able to cast it in you metal of choice. 
+At this point I decided to skip casting them in metal myself and opt to have Shapeways do it. My understanding of the process is that they print your design in wax, then using a lost wax molding process are able to cast it in your metal of choice. 
 
 ![_config.yml]({{ site.baseurl }}/images/Lost-Wax-Casting-Printing-Casting-Process.png)
 
@@ -31,6 +31,6 @@ Overall it turned out pretty well, with a surface that was rougher in areas that
 
 ![_config.yml]({{ site.baseurl }}/images/necklace_close.jpeg)
 
-I ended up making sticker out of the digital design that didnt make the cut for being made into jewelry. 
+I ended up making stickers out of the digital design that didnt make the cut for being made into jewelry. 
 
 ![_config.yml]({{ site.baseurl }}/images/stickers.jpeg)

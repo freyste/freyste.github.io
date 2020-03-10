@@ -31,7 +31,7 @@ Step 5: paint and finish
 
 ![_config.yml]({{ site.baseurl }}/images/peng_pair.jpeg)
 
-A dinosaur and Star Wars ATAT for my nephews.
+And a dinosaur and Star Wars ATAT for my nephews.
 
 ![_config.yml]({{ site.baseurl }}/images/dino_walker1.jpeg)
 

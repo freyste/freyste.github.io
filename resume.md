@@ -34,7 +34,7 @@ order: 4
     </tr>
     <tr class="list-row">
       <td colspan="2">
-        Working with future Apple products my job entails
+        Working with future Apple products my job entails<br>
         <br>
         - Designing and executing reliability tests to establish and improve the reliability of products<br>
         - Providing design feedback to improve product reliability when necessary<br>
@@ -52,7 +52,7 @@ order: 4
     </tr>
     <tr class="list-row">
       <td colspan="2">
-        Working with R&D print technology my job entailed
+        Working with R&D print technology my job entailed<br>
         <br>
         - Develop and test microfluidics mechanical packaging solution prototypes<br>
         - Design of proto level test vehicles and fixtures for fab material processing and automation<br>

@@ -120,6 +120,8 @@ order: 4
       <td>CAD Experience</td>
       <td>    
       </td>
+      <td>    
+      </td>
       <td>Solidworks, PTC Creo, NX</td>
     </tr>
   </tbody>

@@ -21,9 +21,9 @@ The basic process was as follows:
 
 ![_config.yml]({{ site.baseurl }}/images/bamboo_replace.jpeg)
 
-![_config.yml]({{ site.baseurl }}/images/bamboo_masking.jpeg)
+![_config.yml]({{ site.baseurl }}/images/bamboo masking.jpeg)
 
-![_config.yml]({{ site.baseurl }}/images/bamboo_frame.jpeg)
+![_config.yml]({{ site.baseurl }}/images/bamboo frame.jpeg)
 
 ![_config.yml]({{ site.baseurl }}/images/bamboo_rear_complete.jpeg)
 

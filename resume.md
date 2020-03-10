@@ -76,7 +76,6 @@ order: 4
         - Operating spectroscopic ellipsometer to measure thin film thickness<br>
         - Operating a thermal evaporator to deposit electrodes on thin films<br>
         - Operating an impedance analyzer to measure relative dielectric permittivity and dielectric loss<br>
-        <br>
       </td>
     </tr>
   </tbody>
@@ -105,6 +104,7 @@ order: 4
   <tbody>
     <tr>
       <td>Machine Shop Experience    </td>
+      <td>    </td>
       <td>Lathe, Mill, Wood Shop, TIG Welder, Basic Electronic Circuits</td>
     </tr>
     <tr>

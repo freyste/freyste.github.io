@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wood Carving 
+title: Winter Wood Carving 
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/mini_peng.jpeg)

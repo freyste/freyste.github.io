@@ -1,6 +1,6 @@
 ---
 layout: page
-title: resume
+title: Résumé
 id: resume
 permalink: /resume/
 order: 4

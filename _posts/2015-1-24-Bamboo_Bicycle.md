@@ -5,7 +5,7 @@ title: Bamboo Bicycle
 
 ![_config.yml]({{ site.baseurl }}/images/bamboo_finished.jpeg)
 
-Bamboo is an awesome material. In terms of specific strength which is a metric of material's strength by weight, it performs better than some steels even!
+Bamboo is an awesome material. In terms of specific strength and stiffness, a metric of material's property by weight, it performs better than some steels even!
 
 ![_config.yml]({{ site.baseurl }}/images/pasted-image.tiff)
 

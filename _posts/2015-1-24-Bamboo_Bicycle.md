@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bamboo Bicycle 
+title: The Bamboo Bicycle 
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/bamboo_finished.jpeg)

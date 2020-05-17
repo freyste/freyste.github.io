@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch Series 5
+title: Apple Watch Series 5 Launch
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/WatchS5.png)

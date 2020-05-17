@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cast Silver Pendant
+title: 3D Printed Silver Casting
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/IMG_2322.jpeg)

@@ -12,9 +12,9 @@ These three projects are selected at random from my overgrowing list of things I
 
 The three projects I am currently working on as decided by the Wheel Decide wheel are: 
 
-- Archery score of 210
+- Build a Hydroponics system
 
-- Put on 20 lbs of muscle
+- Learn to Handstand
 
 - Learn how to tell the hour of the night by the stars 
 

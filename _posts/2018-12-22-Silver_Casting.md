@@ -3,7 +3,7 @@ layout: post
 title: Cast Silver Pendant
 ---
 
-![_config.yml]({{ site.baseurl }}/images/necklace.jpeg)
+![_config.yml]({{ site.baseurl }}/images/IMG_2322.jpeg)
 
 Meaningful gift giving is hard and this year for Christmas I'd wanted to pull it off and make my sisters something that might actually be worth keeping
 
@@ -29,6 +29,7 @@ I opted for silver.
 
 Overall it turned out pretty well, with a surface that was rougher in areas that couldn't be polished. 
 
+![_config.yml]({{ site.baseurl }}/images/necklace.jpeg)
 ![_config.yml]({{ site.baseurl }}/images/necklace_close.jpeg)
 
 I ended up making stickers out of the digital design that didnt make the cut for being made into jewelry. 

@@ -3,11 +3,11 @@ layout: post
 title: Waffle Boi 
 ---
 
+![_config.yml]({{ site.baseurl }}/images/waffle1.jpeg)
+
 So I went on a bit off a waffle kick. I couldnt stop thinking about waffles, couldn't stop making waffles. Is that normal? 
 
-The Basic Breakast Boi with bacon, eggs, cheddar, avocado, maple
 
-![_config.yml]({{ site.baseurl }}/images/waffle1.jpeg)
 
 The Late Night Snack Boi
 

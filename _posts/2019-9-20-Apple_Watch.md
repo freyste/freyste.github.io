@@ -8,8 +8,7 @@ title: Apple Watch Series 5 Launch
 I thought it would be worth noting the launch of a project I have worked very closely on. It is after all the project 
 that I have spent the majority of my waking hours working on over the past year and a half.
 
-Very cool to have not only worked on what some report as being the best selling watch of all time but also one that has
-many stories of its helping save lives. 
+Very appreciative to have not only worked on what some report as being the best selling watch of all time but also one that has many stories of its helping save lives. 
 
 https://www.cnet.com/news/apple-watch-saved-my-life-5-people-share-their-stories/
 

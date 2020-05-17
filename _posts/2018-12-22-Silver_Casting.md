@@ -7,11 +7,11 @@ title: Cast Silver Pendant
 
 Meaningful gift giving is hard and this year for Christmas I'd wanted to pull it off and make my sisters something that might actually be worth keeping
 
-I decided on jewelry that would be based on some of the designs my grandfather had used in his wood carvings. Step 1 was to convert some of the photos I had of these designs, which were what he used to start his carving into a digital vector line file. 
+I decided on jewelry that would be based on some of the designs my grandfather had used in his wood carvings. Step 1 was to convert some of the photos I had of these designs, which were used to transfer his carvings to wood, into digital vector line files. 
 
 ![_config.yml]({{ site.baseurl }}/images/necklace_originals.png)
 
-The process was pretty tedious but was aided with the use of an iPad were i could closely follow the curved and edit as needed. 
+The process was pretty tedious but was aided with the use of an iPad were i could closely follow the curves and edit as needed. 
 
 ![_config.yml]({{ site.baseurl }}/images/necklace_designs.png)
 
@@ -23,15 +23,17 @@ At this point I decided to skip casting them in metal myself and opt to have Sha
 
 ![_config.yml]({{ site.baseurl }}/images/Lost-Wax-Casting-Printing-Casting-Process.png)
 
-I opted for silver.
+In the future I plan to build a simple furnace-crucible setup but am currenty limited by space that would be safe for playing with molten metals...
+
+I opted for it to be cast in silver with on light polishing for a more natural look.
 
 ![_config.yml]({{ site.baseurl }}/images/shapeways.png)
 
-Overall it turned out pretty well, with a surface that was rougher in areas that couldn't be polished. 
+Overall it turned out pretty well. Therw are however obvious tells that it was produced in with a 3D printer such as the lines in the recessed areas that could not easitly by polished out.
 
 ![_config.yml]({{ site.baseurl }}/images/necklace.jpeg)
 ![_config.yml]({{ site.baseurl }}/images/necklace_close.jpeg)
 
-I ended up making stickers out of the digital design that didnt make the cut for being made into jewelry. 
+Also ended up making stickers out of the digital design that didnt make the cut for being made into jewelry. 
 
 ![_config.yml]({{ site.baseurl }}/images/stickers.jpeg)

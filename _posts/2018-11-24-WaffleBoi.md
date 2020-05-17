@@ -21,10 +21,6 @@ The Brie Blue Boi with brie and blueberries
 
 ![_config.yml]({{ site.baseurl }}/images/waffle5.jpeg)
 
-Don't cry over soggy waffles - keeping your waffles crisp oven tips
-
-![_config.yml]({{ site.baseurl }}/images/waffle6.jpeg)
-
 Xtreme bacon waffles
 
 ![_config.yml]({{ site.baseurl }}/images/waffle7.jpeg)
@@ -39,7 +35,7 @@ The waffle problem is in the water
 
 Go big on the batter
 
-https://media.giphy.com/media/h1trS3U8eTjubjKPwp/giphy.gif
+<iframe src="https://giphy.com/embed/h1trS3U8eTjubjKPwp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/h1trS3U8eTjubjKPwp">via GIPHY</a></p>
 
 Strawberry creamcheese waffles
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Résumé
-id: Résumé
-permalink: /Résumé/
+title: resume
+id: resume
+permalink: /resume/
 order: 4
 ---
 

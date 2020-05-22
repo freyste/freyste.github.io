@@ -7,6 +7,8 @@ title: The Star Wars Blaster Range
 
 ![_config.yml]({{ site.baseurl }}/images/Star_wars1.jpeg)
 
-<iframe src="https://giphy.com/embed/hpLsjuWoTzTffqCceI" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hpLsjuWoTzTffqCceI">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/cOhGWDAN5869d5CIed" width="480" height="378" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cOhGWDAN5869d5CIed">via GIPHY</a></p>
 
-<iframe src="https://giphy.com/embed/kdc5Ee6uJEl5U3b0XR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kdc5Ee6uJEl5U3b0XR">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/hWeHs59WGCIxSoFmpe" width="480" height="390" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hWeHs59WGCIxSoFmpe">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/IzusywhgzvKikeJuMh" width="480" height="378" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IzusywhgzvKikeJuMh">via GIPHY</a></p>

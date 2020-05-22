@@ -35,7 +35,7 @@ The waffle problem is in the water
 
 Go big on the batter
 
-<iframe src="https://giphy.com/embed/h1trS3U8eTjubjKPwp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/h1trS3U8eTjubjKPwp">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/h1trS3U8eTjubjKPwp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Strawberry creamcheese waffles
 

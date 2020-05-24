@@ -8,3 +8,8 @@ title: The Blaster Range
 <iframe src="https://giphy.com/embed/Jrk4fP8SxeOLYnyfVB" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <iframe src="https://giphy.com/embed/KxcReDBr0nvoCLhdb6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KxcReDBr0nvoCLhdb6">via GIPHY</a></p>
+
+
+![_config.yml]({{ site.baseurl }}/images/BB8.jpeg)
+
+![_config.yml]({{ site.baseurl }}/images/Photoresistor.jpeg)

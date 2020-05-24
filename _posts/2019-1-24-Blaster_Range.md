@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Blaster Range
+title: The Droid Blaster Range Toy
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/IMG_2477.jpeg)

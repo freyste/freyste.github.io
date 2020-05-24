@@ -10,7 +10,7 @@ title: The Blaster Range
 <script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
 
 <!-- Use it like any other HTML element -->
-<model-viewer src="/images/Blaster2.glb" style="width:500px; height:500px;" auto-rotate camera-controls></model-viewer>
+<model-viewer src="/images/Blaster2.glb" style="width:500px; height:500px;" auto-rotate camera-controls camera-orbit="180deg 30deg 105%"></model-viewer>
 
 <iframe src="https://giphy.com/embed/KxcReDBr0nvoCLhdb6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 

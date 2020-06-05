@@ -1,16 +1,14 @@
 ---
 layout: post
 title: The Bamboo Bicycle 
-summary: This project was an attempt to make a bike frame using a dead simple technique.
+summary: A dead simple technique for building a bicycle out of bamboo
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/bamboo_finished.jpeg)
 
-Bamboo is an awesome material. In terms of specific strength and stiffness, a metric of material's property by weight, it performs better than some steels even!
+Bamboo is an awesome material with a tensile strength comparable to steel but needing 50x less energy to produce. In terms of specific tensile strength, a metric of bamboo's strength by weight, it can be 6x higher than most structural steels! 
 
-![_config.yml]({{ site.baseurl }}/images/pasted-image.tiff)
-
-This project was an attempt to make a bike frame using a dead simple technique I’d been thinking about for a while. I didn't have the resources or time to make a bike jig for a custom frame geometry. So instead I would take a donor frame of an old steel bike and piece by piece replace the steel bars with bamboo replacements. No jig required and original geometry fully preserved.
+This project was an attempt to make a bike frame using a dead simple technique I’d been thinking about for a while. Not having the resources or time to make a bike jig for a custom frame geometry I instead opted for a technique where I would take a donor frame of an old steel bike and piece by piece replace the steel bars with bamboo replacements. No jig required and original geometry fully preserved.
 
 The basic process was as follows:
 1. Find a donor frame

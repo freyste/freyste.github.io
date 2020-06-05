@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Bamboo Bicycle 
-image: ![_config.yml]({{ site.baseurl }}/images/bamboo_finished.jpeg)
 summary: This project was an attempt to make a bike frame using a dead simple technique.
 ---
 

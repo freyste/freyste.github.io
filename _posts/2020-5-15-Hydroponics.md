@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Rooftop Hydroponics
+title: Roots on the Roof
+summary: Making a rooftop ebb and flow hydropinics system
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/roof_lettuce.jpeg)

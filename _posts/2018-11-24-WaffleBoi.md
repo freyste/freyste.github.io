@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Waffle Boi 
+title: Waffle Boi
+summary: So I went on a bit off a waffle kick...
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/waffle1.jpeg)

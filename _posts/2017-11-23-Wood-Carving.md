@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Winter Wood Carving 
+summary: Back at home making wood carvings
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/mini_peng.jpeg)

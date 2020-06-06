@@ -6,11 +6,11 @@ permalink: /ongoing/
 order: 2
 ---
 
-At any given time I try to have 3 projects going. I've found this is the magic number of projects that's few enough to be able to make incremental progress on each while not being so few that I can't trade off between them for breaks. 
+At any given time I try to have 3 projects going. I've found this is the magic number for being able to trade off between them for breaks but not so many that I never get anything done.
 
-These three projects are selected at random from my overgrowing list of things I'd like to do. 
+These three projects are selected at random using the Wheel Decide wheel from my overgrowing list of things I'd like to do. 
 
-The three projects I am currently working on as decided by the Wheel Decide wheel are: 
+The three projects I am currently working on are: 
 
 - Build a Hydroponics system
 

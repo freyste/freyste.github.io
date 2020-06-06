@@ -22,10 +22,10 @@ After each tube was replaced the steel and bamboo frames were attached using car
 
 ![_config.yml]({{ site.baseurl }}/images/bamboo frame.jpeg)
 
-
-
 ![_config.yml]({{ site.baseurl }}/images/bamboo_rear_complete.jpeg)
+
+Results turned out great and the bike has been riding well for the past 3 months! Lookign forward to making more structures out of bamboo in the future. It's is an awesome material with a tensile strength comparable to steel but needing 50x less energy to produce. In terms of specific tensile strength, a metric of bamboo’s strength by weight, it can be 6x higher than most structural steels! 
 
 ![_config.yml]({{ site.baseurl }}/images/bamboo_front_complete.jpeg)
 
-Results turned out great. Bamboo is an awesome material with a tensile strength comparable to steel but needing 50x less energy to produce. In terms of specific tensile strength, a metric of bamboo’s strength by weight, it can be 6x higher than most structural steels! 
+

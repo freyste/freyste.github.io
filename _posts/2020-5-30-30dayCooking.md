@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Quarantine Quitchen - Around the World in 30 Days
+title: Quarantine Kitchen
+summary: Recipes from around the world while stuck quarantined at home 
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/30dayview.png)

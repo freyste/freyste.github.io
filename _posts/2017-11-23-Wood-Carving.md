@@ -10,23 +10,20 @@ Made some of the wood carvings over the winter break. Here's the process:
 
 <br>
 Step 1: draw the design and transfer over to wood 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/lRYTZloM0IRq7Jyt9E" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/lRYTZloM0IRq7Jyt9E"></a></p>
+![_config.yml]({{ site.baseurl }}/images/step_1_wood.gif)
 
 <br>
 Step 2: cut the outline on a scroll saw
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/WS0nkqD9xK380xtrz5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/WS0nkqD9xK380xtrz5"></a></p>
-
+![_config.yml]({{ site.baseurl }}/images/step_2_wood.gif)
 <br>
 Step 3: carve in the patterns
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/gGrYeBbesmEXfV15uU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gGrYeBbesmEXfV15uU"></a></p>
-
+![_config.yml]({{ site.baseurl }}/images/step_3_wood.gif)
 <br>
 Step 4: finish the wood
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/gLF1fI1leqxjSF1pX7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gLF1fI1leqxjSF1pX7"></a></p>
-
+![_config.yml]({{ site.baseurl }}/images/step_4_wood.gif)
 <br>
 Step 5: paint and finish
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/UpJTqjvWHUwIBA2sQm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/UpJTqjvWHUwIBA2sQm"></a></p>
+![_config.yml]({{ site.baseurl }}/images/step_5_wood.gif)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NyXOzcOd5PM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

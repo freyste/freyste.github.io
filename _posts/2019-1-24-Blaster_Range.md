@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Droid Blaster Range Toy
+summary: A relatively safe shooting range toy for my nephews  
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/IMG_2477.jpeg)

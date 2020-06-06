@@ -21,7 +21,7 @@ summary: A relatively safe shooting range toy for my nephews
 
 ![_config.yml]({{ site.baseurl }}/images/range_switch_side.gif)
 
-![_config.yml]({{ site.baseurl }}/images/range_gronk_fall.gif)
+![_config.yml]({{ site.baseurl }}/images/gronk_fall.gif)
 
 ![_config.yml]({{ site.baseurl }}/images/BB8.jpeg)
 

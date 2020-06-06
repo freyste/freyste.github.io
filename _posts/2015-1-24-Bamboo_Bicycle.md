@@ -6,6 +6,10 @@ summary: A dead simple technique for building a bicycle out of bamboo
 
 ![_config.yml]({{ site.baseurl }}/images/bamboo_finished.jpeg)
  
+ 
+ 
+ 
+ 
 I've always wanted to make a bike frame but have never had the resources available weld a steel/aluminum frame at home and 
 would never dare trying to do carbon fiber layup for a structural part with a home vacuum and kitchen oven. There is still, however, one frame material and a technique that I think I can pull off...  This project was an attempt to make a bamboo bike frame using a dead simple technique I’d been thinking about for a while. 
 

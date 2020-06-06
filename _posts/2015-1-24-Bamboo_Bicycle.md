@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Bamboo Bicycle 
-summary: A dead simple technique for building a bicycle out of bamboo
+summary: A dead simple technique for building a bike frame out of bamboo
 excerpt_separator:  <!--end-->
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: The Bamboo Bicycle 
 summary: A dead simple technique for building a bicycle out of bamboo
 ---
-
 ![_config.yml]({{ site.baseurl }}/images/bamboo_finished.jpeg)
  
  

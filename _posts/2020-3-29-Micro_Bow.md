@@ -17,5 +17,6 @@ summary: The coolest thing you can make on a 3d printer
 
 ![_config.yml]({{ site.baseurl }}/images/3Dbow.jpeg)
 
-
 ![_config.yml]({{ site.baseurl }}/images/bow_side.gif)
+
+![_config.yml]({{ site.baseurl }}/images/Loading_bow.gif)

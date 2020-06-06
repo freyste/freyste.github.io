@@ -6,8 +6,7 @@ summary: The coolest thing you can make on a 3d printer
 
 ![_config.yml]({{ site.baseurl }}/images/apple.gif)
 
-<iframe src="https://giphy.com/embed/h2kaJVP1jHvf1fmIFq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+40 arrows per minute at 
 
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
@@ -18,6 +17,5 @@ summary: The coolest thing you can make on a 3d printer
 
 ![_config.yml]({{ site.baseurl }}/images/3Dbow.jpeg)
 
-<iframe src="https://giphy.com/embed/Jo7IXPdsl4rRMe0qAz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-<iframe src="https://giphy.com/embed/VJZHLzco94uovR1THg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![_config.yml]({{ site.baseurl }}/images/bow_side.gif)

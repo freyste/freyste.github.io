@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Global Formula Racing
-summary: Carbon fiber composite parts on the 2015 Global Formula Racing student team car
+summary: All nighters making the carbon fiber composite components of the 2015 Global Formula Racing student team car
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/gfr_car2.jpeg)

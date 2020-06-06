@@ -4,6 +4,8 @@ title: The Micro Magazine Bow
 summary: The coolest thing you can make on a 3d printer
 ---
 
+![_config.yml]({{ site.baseurl }}/images/apple.gif)
+
 <iframe src="https://giphy.com/embed/h2kaJVP1jHvf1fmIFq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 

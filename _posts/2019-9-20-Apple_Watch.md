@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Apple Watch Series 5 Launch
+title: Apple Watch Series 5
+summary: The launch of the product I've spent most of my waking hours on over the past year 
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/WatchS5.png)

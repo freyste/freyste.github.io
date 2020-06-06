@@ -42,7 +42,7 @@ Strawberry creamcheese waffles
 
 ![_config.yml]({{ site.baseurl }}/images/waffle12.jpeg)
 
-Blue & Blue with blue cheese and blueberry waffles 
+Blue & Bleu with bleu cheese and blueberry waffles 
 
 ![_config.yml]({{ site.baseurl }}/images/waffle13.jpeg)
 

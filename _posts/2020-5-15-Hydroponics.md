@@ -6,7 +6,7 @@ summary: Making a rooftop ebb and flow hydroponics system
 
 ![_config.yml]({{ site.baseurl }}/images/roof_lettuce.jpeg)
 
-![_config.yml]({{ site.baseurl }}/images/bikr_carry.jpeg)
+![_config.yml]({{ site.baseurl }}/images/bike_carry.jpeg)
 
 ![_config.yml]({{ site.baseurl }}/images/demo1.jpeg)
 
@@ -14,6 +14,6 @@ summary: Making a rooftop ebb and flow hydroponics system
 
 ![_config.yml]({{ site.baseurl }}/images/roof_wide.jpeg)
 
-![_config.yml]({{ site.baseurl }}/images/roof_wide2.jpeg)
+![_config.yml]({{ site.baseurl }}/images/roof_wide4.jpeg)
 
 ![_config.yml]({{ site.baseurl }}/images/wind_covers.jpeg)

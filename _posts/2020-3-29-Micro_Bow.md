@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Micro Magazine Bow
-summary: Update - the coolest thing you can make on a 3d printer
+summary: The coolest thing you can make on a 3d printer
 ---
 
 <iframe src="https://giphy.com/embed/h2kaJVP1jHvf1fmIFq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>

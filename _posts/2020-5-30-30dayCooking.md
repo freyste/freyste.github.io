@@ -22,7 +22,7 @@ Day 7-9: Greece
 
 Day 10-12: Peru
 
-![_config.yml]({{ site.baseurl }}/images/puru.png)
+![_config.yml]({{ site.baseurl }}/images/peru.png)
 
 Day 13-15: Vietnam
 

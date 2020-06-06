@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3D Printed Silver Casting
+summary: Using lost wax casting to make silver jewelry
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/IMG_2322.jpeg)

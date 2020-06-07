@@ -6,7 +6,13 @@ summary: Recipes from around the world while stuck quarantined at home
 
 ![_config.yml]({{ site.baseurl }}/images/30dayview.png)
 
-I've really missed traveling, and getting out of the house at all, over these past few months and decided to take on a challenge to make food from around the world for 30 days. My favorite part of this experience was finding a bunch of small foreign markets around San Francisco that sold some of the more rare ingredients needed. The worst part was all of dishes.
+Over these past few months of quarantine I’ve really missed traveling, and getting out of the house at all for that matter. I decided to take on a personal challenge to make food from around the world for 30 days over the month of May. 
+
+My favorite part of this experience was finding some great foreign markets around San Francisco that sold the more rare ingredients needed. Also good to know where one can get a pound of garam masala for the price of a 8 oz container at Whole Foods.
+
+The worst part of this experience was all of dishes.
+
+Here are some photos from the challenge for your viewing pleasure:
 
 Day 1-3: India 
 

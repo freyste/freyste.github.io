@@ -6,7 +6,7 @@ summary: The coolest thing you can make with a 3d printer
 
 ![_config.yml]({{ site.baseurl }}/images/apple.gif)
 
-Taking the trophy for the coolest thing you can make on a 3D printer at the moment is the Legolini. It' s a a repeating crossbow and an ingenious design that not only is fun to make but also to use. 
+Taking the trophy for the coolest thing you can make on a 3D printer at the moment is the Legolini. It's a repeating crossbow and an ingenious design that not only is fun to make but also to use. 
 
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
@@ -19,11 +19,11 @@ Here's the crazy part, this little design can have up to a 30 lb draw weight, a 
 
 ![_config.yml]({{ site.baseurl }}/images/bow_side.gif)
 
-Technically it does not fit the definition of a crossbow. It's a bow because it can't be locked in cocked condition. Technically, it's basically a slingbow.
+Technically it does not fit the definition of a crossbow. It's a bow because it can't be locked in cocked condition. Technically, it's a slingbow. This actually allows it to live outside of some of the regulations associated with crossbows that can store energy and therefore are often treated as firearms.
 
 ![_config.yml]({{ site.baseurl }}/images/3Dbow.jpeg)
 
-Here's a link to to the designers page <a href="https://legolini.com/"> Here</a>
+Here's a link to to the designers<a href="https://legolini.com/"> page </a>
 
 ![_config.yml]({{ site.baseurl }}/images/Loading_bow.gif)
 

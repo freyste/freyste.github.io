@@ -20,6 +20,14 @@ After that I picked the one I was happiest with and moved it into a FreeCAD to f
 
 ![_config.yml]({{ site.baseurl }}/images/necklace_freecad.png)
 
+<!-- Import the component -->
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
+<script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
+
+<!-- Use it like any other HTML element -->
+<model-viewer src="/images/Kingfisher.glb" style="width:500px; height:500px;" auto-rotate camera-controls camera-orbit="180deg 30deg 105%"></model-viewer>
+
+
 At this point I decided to skip casting them in metal myself and opt to have Shapeways do it. My understanding of the process is that they print your design in wax, then using a lost wax molding process are able to cast it in your metal of choice. 
 
 ![_config.yml]({{ site.baseurl }}/images/Lost-Wax-Casting-Printing-Casting-Process.png)

@@ -23,6 +23,6 @@ Technically it does not fit the definition of a crossbow. It's a bow because it 
 
 ![_config.yml]({{ site.baseurl }}/images/Loading_bow.gif)
 
-Here's a link to to the designers<a href="https://legolini.com/"> page </a>
+Here's a link to to the designer's<a href="https://legolini.com/"> page </a>
 
 ![_config.yml]({{ site.baseurl }}/images/3Dbow.jpeg)

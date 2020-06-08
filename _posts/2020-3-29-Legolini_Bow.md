@@ -19,12 +19,10 @@ Here's the crazy part, this little design can have up to a 30 lb draw weight, a 
 
 ![_config.yml]({{ site.baseurl }}/images/bow_side.gif)
 
-Technically it does not fit the definition of a crossbow. It's a bow because it can't be locked in cocked condition. Technically, it's a slingbow. This actually allows it to live outside of some of the regulations associated with crossbows that can store energy and therefore are often treated as firearms.
-
-![_config.yml]({{ site.baseurl }}/images/3Dbow.jpeg)
-
-Here's a link to to the designers<a href="https://legolini.com/"> page </a>
+Technically it does not fit the definition of a crossbow. It's a bow because it can't be locked in cocked condition. Technically, it's a slingbow. This actually allows it to live outside of some of the regulations associated with crossbows which can store energy and therefore are often treated as firearms.
 
 ![_config.yml]({{ site.baseurl }}/images/Loading_bow.gif)
 
+Here's a link to to the designers<a href="https://legolini.com/"> page </a>
 
+![_config.yml]({{ site.baseurl }}/images/3Dbow.jpeg)

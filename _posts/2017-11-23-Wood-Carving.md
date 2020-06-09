@@ -6,7 +6,7 @@ summary: Back at home making wood carvings
 
 ![_config.yml]({{ site.baseurl }}/images/mini_peng.jpeg)
 
-Since college whenever I've made a trip home for holiday breaks I've found some time to do some woodworking in the garage. This year I decided to make a pair of penguins for my sister and her family.   
+Since college whenever I've made a trip home for holiday breaks I've found some time to do woodworking in the garage. This year I decided to make a pair of penguins for my sister and her family.   
 
 Here's the basic process I went through: 
 

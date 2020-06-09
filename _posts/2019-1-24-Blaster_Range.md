@@ -25,9 +25,10 @@ For the targets I had initially planned to put some living characters like Jar J
 
 The target range uses 3 servo motors to raise and lower pins that destabilize and topple the target. These servos are triggered to actuate when the photoresistors tell an Arduino that they are seeing light from the laser. To create this signal the photoresistors are wired with 10K resistor and set up as a voltage divider for the Arduino to read as high/low light once a threshold is set.
 
-![_config.yml]({{ site.baseurl }}/images/range_switch.gif)
 
 ![_config.yml]({{ site.baseurl }}/images/top_view.png)
+
+![_config.yml]({{ site.baseurl }}/images/range_switch.gif)
 
 The design of the blaster is simple and entirely 3D printed down the the springs, with the exception of the laser module, the tactile switch, and the battery.
 

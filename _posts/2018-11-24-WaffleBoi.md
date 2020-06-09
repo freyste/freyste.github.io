@@ -6,7 +6,7 @@ summary: So I went on a bit off a waffle kick...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle1.jpeg)
 
-So I went on a bit off a waffle kick. I couldn't stop thinking about waffles, couldn't stop making waffles. Is that normal? 
+So I went on a bit off a waffle kick. I couldn't stop thinking about waffles, couldn't stop making waffles... 
 
 
 

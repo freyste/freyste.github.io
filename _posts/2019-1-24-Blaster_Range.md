@@ -6,7 +6,7 @@ summary: A relatively safe shooting range toy for my nephews
 
 ![_config.yml]({{ site.baseurl }}/images/IMG_2477.jpeg)
 
-Lately my nephews have been obsessed with Star Wars and I wanted to make them a toy that no other kids on the block would have. Given that Disney Star Wars franchise has probably made every toy they could, I had to come up with something just dangerous enough that they couldn’t.
+Lately my nephews have been obsessed with Star Wars and I wanted to make them a toy that no other kids on the block would have. Given that the Disney Star Wars franchise has probably made every toy they could, I had to come up with something just dangerous enough that they couldn’t.
 
 ![_config.yml]({{ site.baseurl }}/images/nephews.jpeg)
 

@@ -34,11 +34,11 @@ At this point I decided to skip casting them in metal myself and opt to have Sha
 
 In the future I plan to build a simple furnace-crucible setup but am currenty limited by space that would be safe for playing with molten metals...
 
-I opted for it to be cast in silver with on light polishing for a more natural look.
+There are a range of material options for precious metals but I went for silver and requested light polishing for a more natural fishish.
 
 ![_config.yml]({{ site.baseurl }}/images/shapeways.png)
 
-Overall it turned out pretty well. Therw are however obvious tells that it was produced in with a 3D printer such as the lines in the recessed areas that could not easitly by polished out.
+Overall it turned out pretty well. There are however obvious tells that it was produced in with a 3D printer such as the print lines in the recessed areas that could not easily by polished out.
 
 ![_config.yml]({{ site.baseurl }}/images/necklace.jpeg)
 ![_config.yml]({{ site.baseurl }}/images/necklace_close.jpeg)

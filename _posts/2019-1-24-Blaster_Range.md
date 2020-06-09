@@ -23,7 +23,7 @@ For the targets I had initially planned to put some living characters like Jar J
 ![_config.yml]({{ site.baseurl }}/images/droid_fall.gif)
 ![_config.yml]({{ site.baseurl }}/images/gronk_fall.gif)
 
-The target range uses 3 servo motors to raise and lower pins that destabilize and topple the target. These servos are triggered to actuate when the photoresistors tell an Arduino that they are seeing light from the laser. To create this signal the photoresistors are wired with 10K resistor and set up as a voltage divider for the Arduino to read as high/low light once a threshold is set.
+The target range uses 3 servo motors to raise and lower pins that destabilize and topple the target. These servos are triggered to actuate when the photoresistors tell an Arduino that they are seeing light from the laser. To create this signal the photoresistors are wired in parallel with 10K resistors and set up as a voltage divider for the Arduino to read as high/low light once a threshold is set.
 
 
 ![_config.yml]({{ site.baseurl }}/images/top_view.png)

@@ -10,45 +10,45 @@ So I went on a bit off a waffle kick. I couldn't stop thinking about waffles, co
 
 
 
-The Late Night Snack Boi
+It started with a late night snack craving for avocao waffles...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle2.jpeg)
 
-The Monte Cristo Boi with ham, swiss, and raspberry
+Then a Monte Cristo waffle with ham, swiss, and raspberry...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle3.jpeg)
 
-The Brie Blue Boi with brie and blueberries
+Next was the blue waffle with brie and blueberries...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle5.jpeg)
 
-Xtreme bacon waffles
+Then Xtreme bacon waffles...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle7.jpeg)
 
-Every morning starts with a decision, sweet or savory with avocado, brie, and egg vs yogurt, mangos, and strawberries
+Every morning started with a decision, sweet or savory with avocado, brie, and egg vs yogurt, mangos, and strawberries...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle8.jpeg)
 
-The waffle problem is in the water
+The waffle problem is in the water...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle10.jpeg)
 
-Go big on the batter
+Went too big on the batter sometimes...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle.gif)
 
-Strawberry creamcheese waffles
+Strawberry creamcheese waffles...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle12.jpeg)
 
-Blue & Bleu with bleu cheese and blueberry waffles 
+More blueberry brie waffles...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle13.jpeg)
 
-Saturday morning team brunch powered by waffles
+Getting the whole Sunday morning brunch crew in on the waffles...
 
 ![_config.yml]({{ site.baseurl }}/images/waffle16.jpeg)
 
-This waffle stuff has to stop...
+This waffle stuff has to stop.
 

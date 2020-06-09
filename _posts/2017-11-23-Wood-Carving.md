@@ -8,7 +8,7 @@ summary: Back at home making wood carvings
 
 Since college whenever I've made a trip home for holiday breaks I've found some time to do woodworking in the garage. This year I decided to make a pair of penguins for my sister and her family.   
 
-Here's the basic process I went through: 
+Here's the basic process I go through: 
 
 Step 1: draw the design and transfer over to wood<br>
 ![_config.yml]({{ site.baseurl }}/images/step_1_wood.gif)

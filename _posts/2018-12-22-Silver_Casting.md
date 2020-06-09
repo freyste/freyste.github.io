@@ -16,7 +16,7 @@ The process was pretty tedious but was aided with the use of an iPad were i coul
 
 ![_config.yml]({{ site.baseurl }}/images/necklace_designs.png)
 
-After that I picked the one I was happiest with and moved it into a FreeCAD to form the 3D model.
+After that I picked the design I was happiest with and moved it into a FreeCAD to form the 3D model.
 
 ![_config.yml]({{ site.baseurl }}/images/necklace_freecad.png)
 
@@ -28,9 +28,9 @@ After that I picked the one I was happiest with and moved it into a FreeCAD to f
 <model-viewer src="/images/Kingfisher.glb" style="width:500px; height:500px;" auto-rotate camera-controls camera-orbit="210deg 30deg 105%"></model-viewer>
 
 
-At this point I decided to skip casting them in metal myself and opt to have Shapeways do it. My understanding of the process is that they print your design in wax, then using a lost wax molding process are able to cast it in your metal of choice. 
+At this point I decided to skip casting them in metal myself and opt to have Shapeways do it. They use a high resolution 3D printer to print your design in wax, then using a lost wax molding process are able to cast it in your metal of choice. 
 
-![_config.yml]({{ site.baseurl }}/images/Lost-Wax-Casting-Printing-Casting-Process.png)
+![_config.yml]({{ site.baseurl }}/images/lost_wax.png)
 
 In the future I plan to build a simple furnace-crucible setup but am currenty limited by space that would be safe for playing with molten metals...
 

@@ -12,11 +12,11 @@ Lately my nephews have been obsessed with Star Wars and I wanted to make them a 
 
 The concept was a storm trooper laser blaster and a series of targets that would tip and fall when struck by the laser. I thought this could be pulled off pretty simply with a laser module for the blaster and a photoresistor sensor plus servo for the targets. 
 
-![_config.yml]({{ site.baseurl }}/images/starwars_concept.png)
+![_config.yml]({{ site.baseurl }}/images/Assembly_sketch1.png.PNG)
 
 At some point I realized that in order for the laser to hit the target but wirelessly trigger the servo to knock over that target, the laser light would need to be redirected. The solution I came up with was to have the target be a hole that the laser light would enter with a 45 degree angled mirror at the back of it which would redirect the light to a light sensor below.
 
-*sketch of the mirror concept*
+![_config.yml]({{ site.baseurl }}/images/Mirror_sketch_1.png.JPG)
 
 For the targets I had initially planned to put some living characters like Jar Jar Binks since this was a storm trooper blaster after all but opted instead for droids. Seemed less violent and also the way the targets would fall seemed pretty realistic to how a droid my respond to a blaster. 
 

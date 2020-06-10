@@ -49,4 +49,5 @@ Put it all together and it makes for a pretty fun little game
 
 If I were to make improvements to this I might try to coat the internal holes of the targets with some kind of reflective paint or tape to prevent some of the light from being absorbed into the plastic and lost. Additionally I would opt not to use a single flat angled 45 degree mirror but instead use a curved light focusing mirror system that would be more tolerant to off angle lasers. In the current design one needs to be pretty close to perpendicular with the target hole axis. 
 
-*sketch of the improved mirror concept*
+![_config.yml]({{ site.baseurl }}/images/Reflector_improve.PNG)
+

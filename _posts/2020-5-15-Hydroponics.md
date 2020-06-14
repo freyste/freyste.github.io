@@ -8,7 +8,7 @@ Like many others, I’ve been inspired to start a vegetable garden over the quar
 
 ![_config.yml]({{ site.baseurl }}/images/hydrosystem_labelled.png)
 
-After some initial brainstorming and research, an ebb and flow style of hydroponics system was our best bet as its a relatively passive system that fills up the plant reservoirs and then drains slowly throughout the day. This means that the water pumps only need to be operating for a few minutes a day which save big on electricity costs.
+After some initial brainstorming and research, an ebb and flow style hydroponics system was our best option as its a relatively passive system that fills up the plant reservoirs and then drains slowly throughout the day. This means that the water pumps only need to be operating for a few minutes a day which saves big on electricity costs.
 
 ![_config.yml]({{ site.baseurl }}/images/ebb_flow.gif)
 
@@ -28,21 +28,18 @@ Fully installed
 
 ![_config.yml]({{ site.baseurl }}/images/Fully_installed.jpeg)
 
-The working principle of the system is 
-
-The system has one large reservoir of water that we keep on the deck with at a different times throughout the day will be pumped to the roof to replenish the reservoirs. 
+There were a number of parts that required design and fabrication like the silicone foam sealed end caps. These end caps were a critical improvement when we realized its a huge advantage to have a remove-able end cap for cleaning and maintenance.
 
 ![_config.yml]({{ site.baseurl }}/images/EndCap_Assy.png)
 
-There were a number of parts that required design and fabrication like the silicone foam sealed end caps. These encaps were a critical improvement when we realized its a huge advantage to have a remove-able end cap for cleaning and maintenance.
+Another part designed were the dams that allow the ebb and flow process to take place as water can build up and then slowly empty thought the day.
 
 ![_config.yml]({{ site.baseurl }}/images/End_Assy.png)
 
-Another part designed were the dams that allow the ebb and flow process to take place as water can build up and then slowly empty thought the day.
+Lastly is the side clips and wind covering that we found were necessary with the 20-30 mph winds we get over our house every day.
 
 ![_config.yml]({{ site.baseurl }}/images/Dam_Xsection.png)
 
-Lastly is the side clips and wind covering that we found were necessary with the 20-30 mph winds we get over our house every day.
 
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>

@@ -28,7 +28,7 @@ Fully installed
 
 ![_config.yml]({{ site.baseurl }}/images/Fully_installed.jpeg)
 
-There were a number of parts that required design and fabrication like the silicone foam sealed end caps. These snap on end caps were a critical improvement when we realized its a huge advantage to have a remove-able end cap for cleaning and maintenance. Before the end caps are installed, an end cap block is first epoxied to the reservoir which prived the compression to the silicone foam seal once snapped in place.
+There were a number of parts that required design and fabrication like the silicone foam sealed end caps. These snap on end caps were a critical improvement when we realized how huge of and advantage it is to have a removable end cap for cleaning and maintenance. Before the end caps are installed, an end cap block is first epoxied to the reservoir side wall which provides  compression to the silicone foam seal once snapped in place.
 
 ![_config.yml]({{ site.baseurl }}/images/EndCap_Assy.png)
 
@@ -36,9 +36,12 @@ Another part designed were the dams that allow the ebb and flow process to take 
 
 ![_config.yml]({{ site.baseurl }}/images/Dam_Xsection.png)
 
-Lastly is the side clips and wind covering that we found were necessary with the 20-30 mph winds we get over our house every day. Attached to these clips are chicken-wire domes which can be coated with seran wrap to prevent young seedling from being damaged by the wind. 
+Lastly is the side clips and wind covering that we found were necessary with the 20-30 mph winds we get over our house every day. Attached to these clips are chicken-wire domes which can be coated with saran wrap to prevent young seedling from being damaged by the wind. 
 
 ![_config.yml]({{ site.baseurl }}/images/End_Assy.png)
+
+All of these designs can be found on my thigiverse page <a href="https://pinshape.com/items/93423-3d-printed-gutter-hydroponics"> here </a>
+
 
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>

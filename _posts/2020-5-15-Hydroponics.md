@@ -28,7 +28,7 @@ Fully installed
 
 ![_config.yml]({{ site.baseurl }}/images/Fully_installed.jpeg)
 
-There were a number of parts that required design and fabrication like the silicone foam sealed end caps. These end caps were a critical improvement when we realized its a huge advantage to have a remove-able end cap for cleaning and maintenance.
+There were a number of parts that required design and fabrication like the silicone foam sealed end caps. These snap on end caps were a critical improvement when we realized its a huge advantage to have a remove-able end cap for cleaning and maintenance. Before the end caps are installed, an end cap block is first epoxied to the reservoir which prived the compression to the silicone foam seal once snapped in place.
 
 ![_config.yml]({{ site.baseurl }}/images/EndCap_Assy.png)
 

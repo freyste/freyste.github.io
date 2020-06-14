@@ -12,7 +12,7 @@ My favorite part of this experience was finding some great foreign markets aroun
 
 The worst part of this experience was doing all the dishes.
 
-Here are some photos from the challenge for your viewing pleasure:
+Here are some photos from the challenge:
 
 Day 1-3: India 
 

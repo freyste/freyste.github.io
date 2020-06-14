@@ -8,7 +8,7 @@ Like many others, I’ve been inspired to start a vegetable garden over the quar
 
 ![_config.yml]({{ site.baseurl }}/images/hydrosystem_labelled.png)
 
-After some initial brainstorming and research an ebb and flow style of hydroponics system was our best bet as its a relatively passive system that fill up the plant reservoirs and then drains slowly throughout the day. This means that the pumps the pumps only need to be operating for a few minutes a day saving big on electricity costs.
+After some initial brainstorming and research an ebb and flow style of hydroponics system was our best bet as its a relatively passive system that fills up the plant reservoirs and then drains slowly throughout the day. This means that the water pumps only need to be operating for a few minutes a day which save big on electricity costs.
 
 ![_config.yml]({{ site.baseurl }}/images/ebb_flow.gif)
 

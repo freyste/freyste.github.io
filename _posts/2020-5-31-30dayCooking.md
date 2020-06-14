@@ -10,7 +10,7 @@ These past few months of quarantine I’ve really missed traveling and decided t
 
 My favorite part of this experience was finding some great foreign markets around San Francisco that sold the more rare ingredients needed. It's good to know where one can get a pound of garam masala in San Francisco for the price of an 8 oz jar at Whole Foods.
 
-The worst part of this experience was all of dishes.
+The worst part of this experience was doing all the dishes.
 
 Here are some photos from the challenge for your viewing pleasure:
 

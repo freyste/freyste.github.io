@@ -9,7 +9,7 @@ summary: The launch of the product I've spent most of my waking hours on for the
 I thought it would be worth noting the launch of a project I have worked closely on. It is after all the project 
 that I have spent the majority of my waking hours working on over the past two years.
 
-Very appreciative to not only have worked on what some report as being the best selling watch of all time but also something that has so many stories of its helping save lives. Here are some pretty great stories of the Apple Watch saving lives:
+Very appreciative to not only have worked on what has been reported as being the best selling watch of all time but also a product that has so many stories of its helping save lives. Here are some pretty great stories of the Apple Watch saving lives:
 
 <a href="https://www.cnet.com/news/apple-watch-saved-my-life-5-people-share-their-stories/">https://www.cnet.com/news/apple-watch-saved-my-life-5-people-share-their-stories/</a>
 

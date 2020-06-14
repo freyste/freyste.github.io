@@ -18,7 +18,7 @@ At some point I realized that in order for the laser to hit the target but wirel
 
 ![_config.yml]({{ site.baseurl }}/images/Mirror_sketch_1.png.JPG)
 
-For the targets I had initially planned to put some living characters like Jar Jar Binks since this was a storm trooper blaster after all but opted instead for droids. Seemed less violent and also the way the targets would fall seemed pretty realistic to how a droid my respond to a blaster. 
+For the targets I had initially planned to put some living characters like Jar Jar Binks since this was a storm trooper blaster after all but opted instead for droids. Seems less violent and also the way the targets would fall seemed pretty realistic to how a droid might respond to a blaster. 
 
 ![_config.yml]({{ site.baseurl }}/images/droid_fall.gif)
 ![_config.yml]({{ site.baseurl }}/images/gronk_fall.gif)

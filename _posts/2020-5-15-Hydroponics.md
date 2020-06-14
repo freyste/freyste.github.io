@@ -32,11 +32,11 @@ There were a number of parts that required design and fabrication like the silic
 
 ![_config.yml]({{ site.baseurl }}/images/EndCap_Assy.png)
 
-Another part designed were the dams that allow the ebb and flow process to take place as water can build up and then slowly empty thought the day.
+Another part designed were the dams that allow the ebb and flow process to take place as water can build up and then slowly empty thought the day. The dams have holes drilled into them such that water can leak out at a controlled rate. It was a bit of a trial an error process to establish just how many holes were needed to get the desired outflow rates between the reservoirs.
 
 ![_config.yml]({{ site.baseurl }}/images/Dam_Xsection.png)
 
-Lastly is the side clips and wind covering that we found were necessary with the 20-30 mph winds we get over our house every day.
+Lastly is the side clips and wind covering that we found were necessary with the 20-30 mph winds we get over our house every day. Attached to these clips are chicken-wire domes which can be coated with seran wrap to prevent young seedling from being damaged by the wind. 
 
 ![_config.yml]({{ site.baseurl }}/images/End_Assy.png)
 

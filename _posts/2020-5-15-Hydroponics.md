@@ -4,6 +4,14 @@ title: Roots on the Roof
 summary: Making a rooftop ebb and flow hydroponics system
 ---
 
+![_config.yml]({{ site.baseurl }}/images/Dam_Xsection.png)
+![_config.yml]({{ site.baseurl }}/images/End_Assy.png)
+![_config.yml]({{ site.baseurl }}/images/EndCap_Assy.png)
+![_config.yml]({{ site.baseurl }}/images/hydrosystem_labelled.png)
+![_config.yml]({{ site.baseurl }}/images/Fully_installed.jpeg)
+
+
+
 ![_config.yml]({{ site.baseurl }}/images/roof_lettuce.jpeg)
 
 ![_config.yml]({{ site.baseurl }}/images/bike_carry.jpeg)

@@ -4,7 +4,7 @@ title: Roots on the Roof
 summary: Making a rooftop ebb and flow hydroponics system
 ---
 
-Like many others, I’ve been inspired to start a vegetable garden over the quarantine period with all this extra time and cooking at home. Our house in San Francisco unfortunately does not have much of a yard for planting, so our best option was to plant on our roof. The concept was a hydroponics system that would require minimal maintenance and trips onto the roof with the exception of when we are harvesting our crops. 
+Like many others, I’ve been inspired to start a vegetable garden over the quarantine period with all this extra time and cooking at home. Our house in San Francisco unfortunately does not have much of a yard for planting, so our best option was to plant on our roof. The concept was a hydroponics system that would require minimal maintenance or trips onto the roof with the exception of when we are harvesting our crops. 
 
 ![_config.yml]({{ site.baseurl }}/images/hydrosystem_labelled.png)
 
@@ -16,7 +16,7 @@ After some initial brainstorming and research, an ebb and flow style hydroponics
 
 ![_config.yml]({{ site.baseurl }}/images/bike_carry.jpeg)
 
-In our prototype setup we discovered a few problems that would need addressing. The major one was that if we had multiple reservoirs in series we would need to be able to control how the long ebb and flow process took, or how quickly each plant rerservoir would flow into the next. 
+In our prototype setup we discovered a few problems that would need addressing. The major one was that if we had multiple reservoirs in series we would need to be able to control how the long ebb and flow process took, or how quickly each plant reservoir would flow into the next. 
 
 ![_config.yml]({{ site.baseurl }}/images/demo1.jpeg)
 
@@ -28,7 +28,9 @@ Fully installed
 
 ![_config.yml]({{ site.baseurl }}/images/Fully_installed.jpeg)
 
-There were a number of parts that required design and fabrication like the silicone foam sealed end caps. These snap on end caps were a critical improvement when we realized how huge of and advantage it is to have a removable end cap for cleaning and maintenance. Before the end caps are installed, an end cap block is first epoxied to the reservoir side wall which provides  compression to the silicone foam seal once snapped in place.
+There were a number of parts that required notable design and fabrication like the silicone foam sealed end caps. These snap on end caps were a critical improvement when we realized how huge of an advantage it is to have a removable end cap for cleaning and maintenance. Before the end caps are installed, an end cap block is first epoxied to the reservoir side wall which provides  compression to the silicone foam seal once snapped in place.
+
+*gif of snapping cap into place
 
 ![_config.yml]({{ site.baseurl }}/images/EndCap_Assy.png)
 
@@ -36,11 +38,11 @@ Another part designed were the dams that allow the ebb and flow process to take 
 
 ![_config.yml]({{ site.baseurl }}/images/Dam_Xsection.png)
 
-Lastly is the side clips and wind covering that we found were necessary with the 20-30 mph winds we get over our house every day. Attached to these clips are chicken-wire domes which can be coated with saran wrap to prevent young seedling from being damaged by the wind. 
+Lastly we needed side clips and a wind covering. with the 20-30 mph winds we get over our house every evening. Attached to these clips are chicken-wire domes which can be coated with saran wrap to prevent young seedlings from being damaged by the wind. 
 
 ![_config.yml]({{ site.baseurl }}/images/End_Assy.png)
 
-All of these designs can be found on my thigiverse page <a href="https://pinshape.com/items/93423-3d-printed-gutter-hydroponics"> here </a>
+All of these designs can be found on my <strike>thingiverse</strike> Pinshape page <a href="https://pinshape.com/items/93423-3d-printed-gutter-hydroponics"> here </a>
 
 
 <!-- Import the component -->

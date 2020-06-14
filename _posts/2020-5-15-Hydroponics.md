@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Roots on the Roof
-summary: Making a rooftop ebb and flow hydroponics system
+summary: Building a rooftop ebb and flow hydroponics system
 ---
+
+![_config.yml]({{ site.baseurl }}/images/roof_lettuce.jpeg)
 
 Like many others, I’ve been inspired to start a vegetable garden over the quarantine period with all this extra time and cooking at home. Our house in San Francisco unfortunately does not have much of a yard for planting, so our best option was to plant on our roof. The concept was a hydroponics system that would require minimal maintenance or trips onto the roof with the exception of when we are harvesting our crops. 
 
@@ -30,9 +32,10 @@ Fully installed
 
 There were a number of parts that required notable design and fabrication like the silicone foam sealed end caps. These snap on end caps were a critical improvement when we realized how huge of an advantage it is to have a removable end cap for cleaning and maintenance. Before the end caps are installed, an end cap block is first epoxied to the reservoir side wall which provides  compression to the silicone foam seal once snapped in place.
 
-*gif of snapping cap into place
-
 ![_config.yml]({{ site.baseurl }}/images/EndCap_Assy.png)
+
+Also, the satisfying *pop* of these snapping into place is great
+*gif of snapping cap into place
 
 Another part designed were the dams that allow the ebb and flow process to take place as water can build up and then slowly empty thought the day. The dams have holes drilled into them such that water can leak out at a controlled rate. It was a bit of a trial an error process to establish just how many holes were needed to get the desired outflow rates between the reservoirs.
 
@@ -51,5 +54,3 @@ All of these designs can be found on my <strike>thingiverse</strike> Pinshape pa
 
 <!-- Use it like any other HTML element -->
 <model-viewer src="/images/1up_hydro_assym.glb" style="width:500px; height:500px;" auto-rotate camera-controls camera-orbit="180deg 30deg 105%"></model-viewer>
-
-![_config.yml]({{ site.baseurl }}/images/roof_lettuce.jpeg)

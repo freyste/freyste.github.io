@@ -6,7 +6,7 @@ summary: The coolest thing you can make with a 3d printer
 
 ![_config.yml]({{ site.baseurl }}/images/apple.gif)
 
-Taking the trophy for the coolest thing you can make on a 3D printer at the moment is the Legolini. It's a repeating crossbow with an ingenious design that not only is fun to make but also to use. I've been using it in the backyard as a mini activity during quaratine and highly recommend it.
+Taking the trophy for the coolest thing you can make on a 3D printer at the moment is the Legolini. It's a repeating crossbow with an ingenious design that not only is fun to make but also to use. I've been using it in the backyard as an activity during quaratine and highly recommend it.
 
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>

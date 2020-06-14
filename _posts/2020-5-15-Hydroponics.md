@@ -34,12 +34,11 @@ There were a number of parts that required design and fabrication like the silic
 
 Another part designed were the dams that allow the ebb and flow process to take place as water can build up and then slowly empty thought the day.
 
-![_config.yml]({{ site.baseurl }}/images/End_Assy.png)
+![_config.yml]({{ site.baseurl }}/images/Dam_Xsection.png)
 
 Lastly is the side clips and wind covering that we found were necessary with the 20-30 mph winds we get over our house every day.
 
-![_config.yml]({{ site.baseurl }}/images/Dam_Xsection.png)
-
+![_config.yml]({{ site.baseurl }}/images/End_Assy.png)
 
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>

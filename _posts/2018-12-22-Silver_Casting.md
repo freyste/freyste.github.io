@@ -34,7 +34,7 @@ At this point I decided to skip casting them in metal myself and opt to have Sha
 
 In the future I plan to build a simple furnace-crucible setup but am currenty limited by space that would be safe for playing with molten metals...
 
-There are a range of material options for precious metals but I went for silver and requested light polishing for a more natural fishish.
+There are a range of material options for precious metals but I went for silver and requested light polishing for a more natural finish.
 
 ![_config.yml]({{ site.baseurl }}/images/shapeways.png)
 

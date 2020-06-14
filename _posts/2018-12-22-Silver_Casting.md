@@ -43,6 +43,6 @@ Overall it turned out pretty well. There are however obvious tells that it was p
 ![_config.yml]({{ site.baseurl }}/images/necklace.jpeg)
 ![_config.yml]({{ site.baseurl }}/images/necklace_close.jpeg)
 
-Also ended up making stickers out of the digital design that didnt make the cut for being made into jewelry. 
+Also ended up making stickers out of the digital designs that didnt make the cut for being made into jewelry. 
 
 ![_config.yml]({{ site.baseurl }}/images/stickers.jpeg)

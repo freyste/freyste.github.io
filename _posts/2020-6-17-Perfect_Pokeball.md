@@ -30,7 +30,7 @@ In additon to that there are embedded magnets that give the closing action a sat
 
 ![_config.yml]({{ site.baseurl }}/images/patent.png)
 
-I design a handful of diferent cam design prototypes, printed them all out, and began to try to find the one that has the perfect feel. 
+I designed a handful of diferent cam prototypes changing up various dimensions, printed them all out, and began to try to find the one that has the perfect feel. 
 
 ![_config.yml]({{ site.baseurl }}/images/Cam_Proto_V1.png)
 

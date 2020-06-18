@@ -26,6 +26,9 @@ I came up with a short list of requirements for the perfect Pokéball toy:
 - Throwable, has to be a very robust design to drop/shock events
 
 While sitting and thinking about the hinge problem i realized the solution was literally in my hands. The Airpods case I was holding had the exact feel and spring mechanism I was looking for in a Pokéball. 
+
+![_config.yml]({{ site.baseurl }}/images/airpod_gif.gif)
+
 Fortunately the Airpods hinge patent is availble so I did not have to break mine open to take a look. The design uses a torsional springs
 and two cams so that the hinge takes force to open but then at around 45 degrees after opening begins to push the other way so that the hinge keeps itself open.
 In additon to that there are embedded magnets that give the closing action a satisfying snap.

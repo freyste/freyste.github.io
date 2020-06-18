@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Perfect Pokéballs
-summary: Trying to build the perfect Pokéballs for my nephews 
+title: The Perfect Pokéball
+summary: Trying to build the perfect Pokéball for my nephews 
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/PokeSquare.png)

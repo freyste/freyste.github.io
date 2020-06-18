@@ -8,7 +8,7 @@ summary: Trying to build the perfect Pokéballs for my nephews
 
 My nephews have a new obsession, Pokémon. I took it on as a project to make them some Pokéballs they could play with around the yard. They've been making Pokémon videos so I thought this would be a pretty cool prop for them.
 
-
+![_config.yml]({{ site.baseurl }}/images/pokefight.gif)
 
 I knew that any Pokéball I made for them was going to take a beating as they would inevitably throw it and probably not always onto soft surfaces. 
 With that in mind initially the idea was just to make a a super strong, heavy, simple ball that could take a beating.  

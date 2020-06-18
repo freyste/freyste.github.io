@@ -11,7 +11,7 @@ My nephews have a new obsession, Pokémon. I took it on as a project to make the
 ![_config.yml]({{ site.baseurl }}/images/pokefight.gif)
 
 I knew that any Pokéball I made for them was going to take a beating as they would inevitably throw it and probably not always onto soft surfaces. 
-With that in mind initially the idea was just to make a a super strong, heavy, simple ball that could take a beating.  
+With that in mind, initially the idea was just to make a a super strong, heavy, simple ball that could take a beating.  
 
 ![_config.yml]({{ site.baseurl }}/images/OG_Pokeball.jpeg)
 

@@ -14,9 +14,9 @@ The three projects I am currently working on are:
 
 - Learn to fly an RC plane
 
-- Learn to Handstand
+- Learn to Sail
 
-- Learn how to tell the hour of the night by the stars 
+- Learn to play the piano 
 
 Stay tuned for updates on these projects...
 

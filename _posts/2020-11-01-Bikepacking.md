@@ -43,3 +43,7 @@ summary: Deep Social Distancing - Bikepacking from San Francisco to Santa Cruz
 ![_config.yml]({{ site.baseurl }}/images/woods_bikepack.jpeg)
 
 ![_config.yml]({{ site.baseurl }}/images/woods_trail_bikepack.jpeg)
+
+https://ridewithgps.com/routes/34721018
+
+

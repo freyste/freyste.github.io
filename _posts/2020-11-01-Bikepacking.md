@@ -4,11 +4,11 @@ title: Bikepacking
 summary: Deep Social Distancing - Bikepacking from San Francisco to Santa Cruz
 ---
 
-![_config.yml]({{ site.baseurl }}/images/Francis_beach_bikepack.jpeg)
-
 ![_config.yml]({{ site.baseurl }}/images/Map_day2_bikepack.png)
 
 ![_config.yml]({{ site.baseurl }}/images/Map_day3_bikepack.png)
+
+![_config.yml]({{ site.baseurl }}/images/Francis_beach_bikepack.jpeg)
 
 ![_config.yml]({{ site.baseurl }}/images/Oof_art_bikepack.jpeg)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mandolorian Jetpacks
+title: Mandalorian Jetpacks
 summary: Another Christmas gift project for my nephews
 ---
 

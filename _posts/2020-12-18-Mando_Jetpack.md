@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Mandolorian Jetpacks
-summary: Another Christmas gift for my nephews
+summary: Another Christmas gift project for my nephews
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Base_jetpack.jpeg)
 
 ![_config.yml]({{ site.baseurl }}/images/Work_area_jetpack.jpeg)
+
+![_config.yml]({{ site.baseurl }}/images/Mando_Jetpack.gif)
+

@@ -36,8 +36,8 @@ order: 4
     </tr>
     <tr class="list-row">
       <td colspan="2">
-        - Developing and testing next generation transportation vehicles<br>
-        - Statistical analysis and prediciton of vehicle fleet reliability<br>
+        - Leading the development and testing next generation lightweight vehicles<br>
+        - Statistical analysis and prediciton of fleet vehicle reliability<br>
         <br>
       </td>
     </tr>

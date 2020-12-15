@@ -20,7 +20,7 @@ So let's get started!
 
 ![_config.yml]({{ site.baseurl }}/images/Work_area_jetpack.jpeg)
 
-With a ply wood base and then just build up shapes around it using a combination of foam board and 3D printed parts.
+With a ply wood base and I just started to build up shapes off of it using a combination of foam board and 3D printed parts.
 
 ![_config.yml]({{ site.baseurl }}/images/Base_jetpack.jpeg)
 

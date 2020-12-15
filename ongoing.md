@@ -12,11 +12,11 @@ These three projects are selected at random using the Wheel Decide wheel from my
 
 The three projects I am currently working on are: 
 
-- Learn to fly an RC plane
-
 - Learn to Sail
 
 - Learn to play the piano 
+
+- Build a snowboard
 
 Stay tuned for updates on these projects...
 

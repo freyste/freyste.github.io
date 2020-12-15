@@ -28,7 +28,7 @@ order: 4
   <tbody>
     <tr>
       <td>
-      <i><a href="https://self-driving.lyft.com/level5/">Lyft </a> – Senior Reliability Engineer</i>
+      <i><a href="https://self-driving.lyft.com/level5/">Lyft </a> – Senior Mechanical Reliability Engineer</i>
       </td>
       <td>
         <i>June 2020 – Current</i>

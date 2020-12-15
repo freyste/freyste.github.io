@@ -10,3 +10,4 @@ summary: Another Christmas gift project for my nephews
 
 ![_config.yml]({{ site.baseurl }}/images/Mando_Jetpack.gif)
 
+![_config.yml]({{ site.baseurl }}/images/jetpack_complete.png)

@@ -26,12 +26,27 @@ order: 4
 ## Work Experience
 <table class="resume-table">
   <tbody>
+    <tr>
+      <td>
+      <i><a href="https://self-driving.lyft.com/level5/">Lyft </a> – Senior Reliability Engineer</i>
+      </td>
+      <td>
+        <i>June 2020 – Current</i>
+      </td>
+    </tr>
+    <tr class="list-row">
+      <td colspan="2">
+        - Developing and testing next generation transportation vehicles<br>
+        - Statistical analysis and prediciton of vehicle fleet reliability<br>
+        <br>
+      </td>
+    </tr>
    <tr>
       <td>
       <i><a href="https://www.apple.com/"> Apple </a> – Mechanical Reliability Engineer</i>
       </td>
       <td>
-        <i>March 2017 - Current</i>
+        <i>March 2017 - June 2020</i>
       </td>
     </tr>
     <tr class="list-row">

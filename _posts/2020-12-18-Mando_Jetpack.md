@@ -12,7 +12,7 @@ Just look at how fun they look!
 
 ![_config.yml]({{ site.baseurl }}/images/Mando_Jetpack.gif)
 
-And I couldn't make just 1, I needed to make a jetpack for each nephew. Luckily there are 2 badass jetpacks in this seasons show. Din Djarin how wears a pack made of the near indestructible beskar, and Boba Fett with a well work JT-12 pack. 
+And I couldn't make just 1, I needed to make a jetpack for each nephew. Luckily there are 2 badass jetpacks in this seasons show. Din Djarin wears a pack made of the near indestructible beskar, and Boba Fett wears a well worn heirloom JT-12 pack. 
 
 ![_config.yml]({{ site.baseurl }}/images/mando_fett.png)
 
